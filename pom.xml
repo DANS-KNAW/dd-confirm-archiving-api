@@ -33,6 +33,10 @@
     <description>API for the dd-confirm-archiving service</description>
     <inceptionYear>2025</inceptionYear>
 
+    <properties>
+        <dans-build-resources-maven-plugin.version>0.7.0</dans-build-resources-maven-plugin.version>
+    </properties>
+
     <scm>
         <developerConnection>scm:git:ssh://github.com/DANS-KNAW/dd-confirm-archiving-api</developerConnection>
         <tag>HEAD</tag>
